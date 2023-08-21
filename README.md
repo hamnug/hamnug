@@ -4,7 +4,7 @@ Hallo Everyone, I'm **Muhammad Ilham Nugraha**.
 
 I'm a **Informatics Engineering Student** in [STMIK Mardira Indonesia](https://stmik-mi.ac.id/).
 
-If you want for get to know me, please follow My [Linkedin](https://www.linkedin.com/in/hamnug/) account or My [Instagram](https://www.instagram.com/hamnug).
+If you want for get to know me, please follow My [Linkedin](https://www.linkedin.com/in/hamnug/) or My [Instagram](https://www.instagram.com/hamnug) Account.
 
 <p align="left">
 <a href="https://github.com/hamnug">
