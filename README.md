@@ -1,10 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Ilham Nugraha**.
+Hallo Everyone, I'm **Muhammad Ilham Nugraha**.
 
-Saya seorang **Informatics Engineering Student** di [STMIK Mardira Indonesia](https://stmik-mi.ac.id/).
+I'm a **Informatics Engineering Student** in [STMIK Mardira Indonesia](https://stmik-mi.ac.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hamnug/)ku ya.
+If you want for get to know me, please follow My [Linkedin](https://www.linkedin.com/in/hamnug/) account or My [Instagram](https://www.instagram.com/hamnug).
 
 <p align="left">
 <a href="https://github.com/hamnug">
